@@ -1,0 +1,18 @@
+
+Summary: The 'Undo' button is disabled after clicking the 'Save' button
+
+Pre condition: The UserB was created
+
+STR:
+  1. Log in under UserB
+  2. Select the 'User info' tab
+  3. Edit Tte information from 'User Name' field
+  4. Click the 'Save' button
+  5. Navigate the 'Undo' button
+ACT: The 'Undo' button is disabled after clicking the 'Save' button
+EXP": The 'Undo' button is activated after clicking the 'Save' button
+Environment: Windows 10 x64
+Severity: Major
+Priority: Medium
+Reporter": Pavlo M.
+Attach": link
