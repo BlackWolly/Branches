@@ -1,0 +1,8 @@
+				TESTING CHECKLIST											
+Tested by		Pavel Mandiuk				Data		10.07.2020			
+Test as required payment form				https://buggy-testingcup.pgs-soft.com							
+Steps of checklist			Expected Result			"Pass/Fail
+	
+											
+											
+
